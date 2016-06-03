@@ -9,10 +9,9 @@
 title: LaTeX-Kurs
 longtitle: LaTeX Kurs WS 2016
 email: moritz.brinkmann@iwr.uni-heidelberg.de
-description: > # this means to ignore newlines until "baseurl:"
-  Einführung in das Textsatzsystem LaTeX im WS 2016 an der Uni Heidelberg
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://latexkurs.de" # the base hostname & protocol for your site
+description: Einführung in das Textsatzsystem LaTeX im WS 2016 an der Uni Heidelberg
+baseurl: ""  # the subpath of your site, e.g. /blog
+url: "http://latexkurs.github.io" # the base hostname & protocol for your site
 twitter_username: derkleineMo
 github_username:  derkleineMo
 
