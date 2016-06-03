@@ -161,3 +161,4 @@ TSWLatexianTemp*
 # Jekyll-stuff
 _site
 .jekyll-metadata
+.sass-cache

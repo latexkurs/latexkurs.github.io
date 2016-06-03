@@ -7,7 +7,7 @@ weight: 3
 
 ## allgemeine Hinweise
 
-[Hinweise zur Installation eines TeX-Systems](../texlive-anleitung.pdf "Installationshinweise").
+[Hinweise zur Installation eines TeX-Systems](./00_texlive_installation.pdf "Installationshinweise").
 
 ## Übungszettel
 
@@ -23,7 +23,7 @@ weight: 3
 		<th>Material</th>
 	</tr>
 
-	{% include exercise.html file="../exercises/latex_blatt01.pdf" name="Übungsblatt 1" duedate="23.10.2015" %}
+	{% include exercise.html file="./01.pdf" name="Übungsblatt 1" duedate="28.10.2016" %}
 </table>
 
 ## Formalia
