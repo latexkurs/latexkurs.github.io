@@ -44,7 +44,7 @@ Der Kurs richtet sich an Studierende aller Fachrichtungen, insbesondere Informat
 
 Für die erfolgreiche Teilnahme ander Vorlesung sind folgende Formalia einzuhalten:
 
-* Anmeldung im MÜSLI
+* Anmeldung im <a href="https://www.mathi.uni-heidelberg.de/muesli/lecture/view/605">MÜSLI</a>
 * Bearbeiten der wöchentlichen <a href="exercises">Übungszettel</a>
 * Erreichen von mindestens 50% der möglichen Gesamtpunktzahl
 * Scheinnote richtet sich nach erreichter Punktzahl in den Übungen (50% = Note 4,0; 100% = Note 1,0)

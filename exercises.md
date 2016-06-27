@@ -30,7 +30,7 @@ weight: 3
 
 Zum Übungsbetrieb sind folgende Punkte zu beachten:
 
-* Übungsaufgaben sind bis spätestens nach der nächsten Vorlesung (Freitag 16:00 Uhr) abzugeben.
+* Übungsaufgaben sind bis spätestens nach der nächsten Vorlesung (Freitag 15:45 Uhr) abzugeben.
 * Die Abgabe erfolgt in Gruppen von mindestens zwei und höchstens drei Menschen.
 * Zur Abgabe muss der Sourcecode (.tex-Dateien) jeweils fristgerecht per Mail an <a href="mailto:abgabe@latexkurs.de">abgabe [at] latexkurs.de</a> geschickt und die geforderten Ausdrucke in der Vorlesung abgegeben werden.
 *  Schicken Sie bitte nur die TeX-Dateien per Mail; keine PDF-Dateien und keine zip-Archive, es sei denn, dies ist ausdrücklich gefordert.
