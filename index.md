@@ -29,8 +29,8 @@ Das Textsatzsystem LaTeX hat sich in den vergangenen Jahren und Jahrzehnten als 
 
 ### Zeit und Ort
 
-noch nicht bekannt<br>
-voraussichtlich Freitags 14:00 Uhr
+Freitags 14:00–16:00 Uhr<br>
+INF 308, Hörsaal 2
 
 ### Empfohlene Vorkenntnisse
 
@@ -48,3 +48,64 @@ Für die erfolgreiche Teilnahme ander Vorlesung sind folgende Formalia einzuhalt
 * Bearbeiten der wöchentlichen <a href="exercises">Übungszettel</a>
 * Erreichen von mindestens 50% der möglichen Gesamtpunktzahl
 * Scheinnote richtet sich nach erreichter Punktzahl in den Übungen (50% = Note 4,0; 100% = Note 1,0)
+
+
+<!--
+### Noten
+Da es sich bei den vergebenen Leistungspunkten um FÜK-Punkte handelt, kann es (je nach Regelung in Ihrer Prüfungsordnung) sein, dass die Veranstaltung unbenotet in Ihrem Transscript auftaucht. Die an das jeweilige Prüfungssektretariat übermittelte Note wird voraussichtlich folgendermaßen aus der in den [Übungen](./exercises) erreichten Punktzahl _P_ bestimmt:
+
+<table>
+	<colgroup>
+		<col width="180">
+		<col width="100">
+	</colgroup>
+	<tr align="right">
+		<th>Punkte</th>
+		<th>Note</th>
+	</tr>
+	<tr align="right">
+		<td><i>P</i> <&nbsp; 66.0</td>
+		<td>5.0</td>
+        </tr>
+	<tr align="right">
+		<td>66.0 &#8804; <i>P</i> <&nbsp; 73.3&#773;</td>
+		<td>4.0</td>
+        </tr>
+	<tr align="right">
+		<td> 73.3&#773; &#8804; <i>P</i> <&nbsp; 80.6&#773;</td>
+		<td>3.7</td>
+	</tr>
+	<tr align="right">
+		<td>80.6&#773; &#8804; <i>P</i> <&nbsp; 88.0</td>
+		<td>3.3</td>
+	</tr>
+	<tr align="right">
+		<td>88.0 &#8804; <i>P</i> <&nbsp; 95.3&#773;</td>
+		<td>3.0</td>
+	</tr>
+	<tr align="right">
+		<td>95.3&#773; &#8804; <i>P</i> < 102.6&#773;</td>
+		<td>2.7</td>
+	</tr>
+	<tr align="right">
+		<td>102.6&#773; &#8804; <i>P</i> < 110.0</td>
+		<td>2.3</td>
+	</tr>
+	<tr align="right">
+		<td>110.0 &#8804; <i>P</i> < 117.3&#773;</td>
+		<td>2.0</td>
+	</tr>
+	<tr align="right">
+		<td>117.3&#773; &#8804; <i>P</i> < 124.6&#773;</td>
+		<td>1.7</td>
+	</tr>
+	<tr align="right">
+		<td>124.6&#773; &#8804; <i>P</i> < 132.0</td>
+		<td>1.3</td>
+	</tr>
+	<tr align="right">
+	    <td>132.0 &#8804; <i>P</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+	    <td>1.0</td>
+	</tr>
+</table>
+-->

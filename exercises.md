@@ -11,20 +11,23 @@ weight: 3
 
 ## Übungszettel
 
-<table border="0" cellspacing="2">
-       	<colgroup>
-		<col width="170">
-	     	<col width="120">
-		<col width="120">
-       	</colgroup>
-        <tr align="left">
-		<th>Zettel</th>
-		<th>Abgabe bis</th>
-		<th>Material</th>
-	</tr>
+Zettel                                                   | Abgabe bis | Material
+---------------------------------------------------------|------------|-------------------------
+[Übungsblatt 0](./00_erste_schritte.pdf)                 | 28.10.2016 |
+![Übungsblatt 1](./01_schriften_kodierungen.pdf)          | 04.11.2016 |                         
+![Übungsblatt 2](./02_mathesatz.pdf)                      | 11.11.2016 |
 
-	{% include exercise.html file="./01.pdf" name="Übungsblatt 1" duedate="28.10.2016" %}
-</table>
+<!--
+![Übungsblatt 3](./03_tabellen.pdf)                       | 18.11.2016 |
+![Übungsblatt 4](./04_masseinheiten.pdf)                  | 25.11.2016 |
+![Übungsblatt 5](./05_abbildungen_tikz.pdf)               | 02.12.2016 |
+![Übungsblatt 6](./06_diagramme.pdf)                      | 09.12.2016 | ![Messwerte](06_messwerte.dat)
+![Übungsblatt 7](./07_umfangreiches_dokument.pdf)         | 16.12.2016 | ![Projektdateien](07_projekt.zip)
+![Weihnachtsblatt](./weihnachtsblatt.pdf)                 | 13.01.2017 |
+![Übungsblatt 8](./08_bibliographie_mehrsprachigkeit.pdf) | 20.01.2017 |
+![Übungsblatt 9](./09_praesentationen.pdf)                | 27.01.2017 |
+![Übungsblatt 10](./10_brief_lebenslauf.pdf) 	          | 03.02.2017 |
+-->
 
 ## Formalia
 
