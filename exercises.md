@@ -34,10 +34,10 @@ Zettel                                                   | Abgabe bis | Material
 Zum Übungsbetrieb sind folgende Punkte zu beachten:
 
 * Übungsaufgaben sind bis spätestens nach der nächsten Vorlesung (Freitag 15:45 Uhr) abzugeben.
-  Die Lösungen können entweder in die Zettelkästen im ersten Stock des Mathematikons (INF 205) oder in der Vorlesung agbebenen werden.
+  Die Lösungen können entweder in der Vorlesung abgegeben oder in die Zettelkästen im ersten Stock des Mathematikons (INF 205) eingeworfen< werden.
 * Die Abgabe erfolgt in Gruppen von mindestens zwei und höchstens drei Menschen.
 * Zur Abgabe muss der Sourcecode (.tex-Dateien) jeweils fristgerecht per Mail an <a href="mailto:abgabe@latexkurs.de?subject=LaTeX-Abgabe%20:">abgabe [at] latexkurs.de</a> geschickt und die geforderten Ausdrucke in der Vorlesung abgegeben werden.
-  (Für technische fragen bitte die Adresse <a href="mailto:support@latexkurs.de"> support [at] latexkurs.de</a> verwenden.)
+  (Für technische Fragen bitte die Adresse <a href="mailto:support@latexkurs.de"> support [at] latexkurs.de</a> verwenden.)
 * Schicken Sie bitte nur die TeX-Dateien per Mail; keine PDF-Dateien und keine zip-Archive, es sei denn, dies ist ausdrücklich gefordert.
 * Als Mail-Betreff bitte _LaTeX-Abgabe 1: Musterfrau, Mustermann_ benutzen.
 * Dateinamen bitte nach dem Muster _uebung1.1_musterfrau_mustermann.tex_ vergeben!
