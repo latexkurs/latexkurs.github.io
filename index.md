@@ -42,7 +42,7 @@ Der Kurs richtet sich an Studierende aller Fachrichtungen, insbesondere Informat
 
 ## Prüfungsmodalitäten
 
-Für die erfolgreiche Teilnahme ander Vorlesung sind folgende Formalia einzuhalten:
+Für die erfolgreiche Teilnahme an der Vorlesung sind folgende Formalia einzuhalten:
 
 * Anmeldung im <a href="https://www.mathi.uni-heidelberg.de/muesli/lecture/view/605">MÜSLI</a>
 * Bearbeiten der wöchentlichen <a href="exercises">Übungszettel</a>
