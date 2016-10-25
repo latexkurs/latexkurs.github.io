@@ -15,9 +15,9 @@ Zettel                                                   | Abgabe bis | Material
 ---------------------------------------------------------|------------|-------------------------
 [Übungsblatt 0](./00_erste_schritte.pdf)                 | 28.10.2016 |
 [Übungsblatt 1](./01_schriften_kodierungen.pdf)          | 04.11.2016 |
+[Übungsblatt 2](./02_mathesatz.pdf)                      | 11.11.2016 |
 
 <!--
-[Übungsblatt 2](./02_mathesatz.pdf)                      | 11.11.2016 |
 [Übungsblatt 3](./03_tabellen.pdf)                       | 18.11.2016 |
 [Übungsblatt 4](./04_masseinheiten.pdf)                  | 25.11.2016 |
 [Übungsblatt 5](./05_abbildungen_tikz.pdf)               | 02.12.2016 |

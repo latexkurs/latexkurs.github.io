@@ -10,8 +10,8 @@ Hier gibt es einen Überblick über die geplanten Vorlesungstermine und – jewe
 Termin     | Thema
 -----------|-----------------------------------------------------------------------
 21.10.2016 | [Einführung, grundlegende Bedienung](./00_einfuehrung_grundlagen.pdf)
-28.10.2016 | allgemeine Formatierung und Pakete 
-04.11.2016 | Mathematiksatz I
+28.10.2016 | [allgemeine Formatierung und Pakete](./01_formatierung_pakete.pdf)
+04.11.2016 | [Mathematiksatz I](./02_mathematiksatz_i.pd)
 11.11.2016 | Gleitumgebungen, Tabellen
 18.11.2016 | Mathematiksatz II
 25.11.2016 | Grafiken, Abbildungen, TikZ
