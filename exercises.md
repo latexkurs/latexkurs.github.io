@@ -18,9 +18,9 @@ Zettel                                                   | Abgabe bis | Material
 [Übungsblatt 2](./02_mathesatz.pdf)                      | 11.11.2016 |
 [Übungsblatt 3](./03_tabellen.pdf)                       | 18.11.2016 |
 [Übungsblatt 4](./04_masseinheiten.pdf)                  | 25.11.2016 |
+[Übungsblatt 5](./05_abbildungen_tikz.pdf)               | 02.12.2016 |
 
 <!--
-[Übungsblatt 5](./05_abbildungen_tikz.pdf)               | 02.12.2016 |
 [Übungsblatt 6](./06_diagramme.pdf)                      | 09.12.2016 | [Messwerte](06_messwerte.dat)
 [Übungsblatt 7](./07_umfangreiches_dokument.pdf)         | 16.12.2016 | [Projektdateien](07_projekt.zip)
 [Weihnachtsblatt](./weihnachtsblatt.pdf)                 | 13.01.2017 |
