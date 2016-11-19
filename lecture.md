@@ -13,7 +13,7 @@ Termin     | Thema
 28.10.2016 | [allgemeine Formatierung und Pakete](./01_formatierung_pakete.pdf)
 04.11.2016 | [Mathematiksatz I](./02_mathesatz_i.pdf)
 11.11.2016 | [Gleitumgebungen, Tabellen](./03_gleitumgebungen_tabellen.pdf)
-18.11.2016 | Mathematiksatz II
+18.11.2016 | [Mathematiksatz II](./04_mathesatz_ii.pdf)
 25.11.2016 | Grafiken, Abbildungen, TikZ
 02.12.2016 | Diagramme
 09.12.2016 | umfangreiche Dokumente
