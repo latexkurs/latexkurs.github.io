@@ -16,7 +16,7 @@ Termin     | Thema
 18.11.2016 | [Mathematiksatz II](./04_mathesatz_ii.pdf)
 25.11.2016 | [Grafiken, Abbildungen, TikZ](./05_grafiken_abbildungen_tikz.pdf)
 02.12.2016 | [Diagramme](./06_diagramme.pdf)
-09.12.2016 | umfangreiche Dokumente
+09.12.2016 | [umfangreiche Dokumente](./07_umfangreiche_dokumente.pdf)
 16.12.2016 | Witziges und Obskures
 13.01.2017 | Bibliographien, mehrsprachiger Satz
 20.01.2017 | Präsentationen
