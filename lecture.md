@@ -18,7 +18,7 @@ Termin     | Thema
 02.12.2016 | [Diagramme](./06_diagramme.pdf)
 09.12.2016 | [umfangreiche Dokumente](./07_umfangreiche_dokumente.pdf)
 16.12.2016 | [Witziges und Obskures](./W_witziges_obskures.pdf)
-13.01.2017 | Bibliographien, mehrsprachiger Satz
+13.01.2017 | [Bibliographien, mehrsprachiger Satz](./08_bibliografien_mehrsprachigkeit.pdf)
 20.01.2017 | Präsentationen
 27.01.2017 | Briefe, Lebensläufe
 03.02.2017 | komplexe Makros und Befehle
