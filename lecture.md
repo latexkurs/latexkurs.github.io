@@ -22,11 +22,11 @@ Termin     | Thema
 20.01.2017 | [Präsentationen](.09_praesentationen.pdf)
 27.01.2017 | Briefe, Lebensläufe
 
-Aufgrund von Termin- und Raumkonflikten können die Vorlesungen am 03.02. und 10.02.2015 leider nicht wie gewohnt stattfinden. Die Unterlagen werden trotzdem an dieser Stelle veröffentlicht.
+Aufgrund von Termin- und Raumkonflikten können die Vorlesungen am 03.02. und 10.02.2017 leider nicht wie gewohnt stattfinden. Die Unterlagen werden trotzdem an dieser Stelle veröffentlicht.
 
 Am 10.02. wird es die Möglichkeit geben, bisher nicht abgeholte Übungszettel zurück zu bekommen.
 
-Inhaltlich gehen die letzten beiden Vorlesungen über das im Modulhandbuch vorgesehene Pensum hinaus und richten sich vor allem an designierte TeX-Profis. Bei Interesse kann auf den Stoff aber in einem eventuellen Zusatztermin in der Vorlesungsfreien Zeit, oder auf einem der regelmäßigen  [TeX-Stammtische](http://projekte.dante.de/Stammtische/Heidelberg) eingegangen werden.
+Inhaltlich gehen die letzten beiden Vorlesungen über das im Modulhandbuch vorgesehene Pensum hinaus und richten sich vor allem an designierte TeX-Profis. Bei Interesse kann auf den Stoff aber in einem eventuellen Zusatztermin in der vorlesungsfreien Zeit, oder auf einem der regelmäßigen  [TeX-Stammtische](http://projekte.dante.de/Stammtische/Heidelberg) eingegangen werden.
 
 03.02.2017 | komplexe Makros und Befehle
 10.02.2017 | eigene Klassen und Pakete schreiben
