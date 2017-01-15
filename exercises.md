@@ -23,9 +23,9 @@ Zettel                                                   | Abgabe bis | Material
 [Übungsblatt 7](./07_umfangreiches_dokument.pdf)         | 16.12.2016 | [Projektdateien](07_projekt.zip)
 [Weihnachtsblatt](./weihnachtsblatt.pdf)                 | 13.01.2017 |
 [Übungsblatt 8](./08_bibliographie_mehrsprachigkeit.pdf) | 20.01.2017 |
+[Übungsblatt 9](./09_praesentationen.pdf)                | 27.01.2017 |
 
 <!--
-[Übungsblatt 9](./09_praesentationen.pdf)                | 27.01.2017 |
 [Übungsblatt 10](./10_brief_lebenslauf.pdf) 	         | 03.02.2017 |
 -->
 
