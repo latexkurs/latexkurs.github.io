@@ -19,7 +19,7 @@ Termin     | Thema
 09.12.2016 | [umfangreiche Dokumente](./07_umfangreiche_dokumente.pdf)
 16.12.2016 | [Witziges und Obskures](./W_witziges_obskures.pdf)
 13.01.2017 | [Bibliographien, mehrsprachiger Satz](./08_bibliografien_mehrsprachigkeit.pdf)
-20.01.2017 | [Präsentationen](.09_praesentationen.pdf)
+20.01.2017 | [Präsentationen](./09_praesentationen.pdf)
 27.01.2017 | Briefe, Lebensläufe
 
 Aufgrund von Termin- und Raumkonflikten können die Vorlesungen am 03.02. und 10.02.2017 leider nicht wie gewohnt stattfinden. Die Unterlagen werden trotzdem an dieser Stelle veröffentlicht.
