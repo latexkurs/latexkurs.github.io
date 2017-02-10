@@ -1,0 +1,19 @@
+\documentclass[ngerman,t,newif]{scrbook}
+\usepackage{xltxtra}
+\let\!\relax
+\def\coolCode{\catcode`\! 0 \catcode`\\ 12}
+\begin{document}
+Dieses Beispieldokument zeigt eine Änderung der so genannten
+category-codes in \TeX. Solche Sachen verwenden Leute, die zeigen
+wollen, wie toll sie mit dem Programm umgehen können. Aber es
+bringt oft mehr Probleme als Nutzen, deswegen sollte man es von
+vornherein nicht in einem ernsthaften Dokument verwenden.
+\coolCode
+Nach dem Befehl coolCode kann man nun einen \ schreiben, ohne
+\ schreiben? Das ist doch ein oft recht nutzloses Zeichen. Also
+lassen wir das und beenden diesen Modus mit dem Befehl:
+!catcode`!\ 9
+Und jetzt hat der Backslash wieder sein normales Verhalten.
+\end{document}
+\def\test#1{#1}
+

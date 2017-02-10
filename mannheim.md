@@ -20,7 +20,7 @@ Quellenverwaltung mit biblatex/biber. Während des Kurses werden Sie interaktiv 
 ausprobieren. Bitte beachten Sie, dass Sie einen Laptop zur Veranstaltung mitbringen und vorab eine 
 LaTeX-Distribution installieren müssen.
 
-[Hinweise zur Installation eines TeX-Systems](./00_texlive_installation.pdf "Installationshinweise")
+[Hinweise zur Installation eines TeX-Systems](./00_texlive_installation.pdf "Installationshinweise (PDF)")
 
 ### Themen
 
@@ -45,3 +45,28 @@ keine
 ### Zielgruppe
 
 Der Kurs richtet sich an Bachelorstudierende der VWL (ggf. auch für Master bei freien Kapazitäten).
+
+## Material
+
+**Folien**     |
+---------------|---------------------------------------------------------------------------
+[Grundlagen, Sprachen, Gleitobjekte, Bilder](./folien_tag1.pdf "Folien zu Tag 1 (PDF)")   | (Tag 1)
+Bibliografien, Formelsatz, Tabellen, Diagramme<!--(./folien_tag2.pdf "Folien zu Tag 2 (PDF)")--> | (Tag 2)
+|
+**Übungen**    |
+---------------|---------------------------------------------------------------------------
+[Makrotypografische Einstellungen](./uebung_layout.tex "uebung_layout.tex")         |
+[Fehlersuche, Minimalbeispiel](./uebung_fehlermeldungen.tex "uebung_fehlermeldungen.tex") | [Lösung](./uebung_fehlermeldungen_loesung.tex "uebung_fehlermeldungen_loesung.tex")
+|
+**Beispiele**  |
+---------------|---------------------------------------------------------------------------
+[Grundbefehle](./beispiel_grundbefehle.tex "beispiel_grundbefehle.tex")                   |
+[Kopf- und Fußzeilen](./beispiel_kopfzeile.tex "beispiel_kopfzeile.tex")                  |
+[Schriftauswahl](./beispiel_schriften.tex "beispiel_schriften.tex")                       |
+[mehrsprachige Dokumente](./beispiel_mehrsprachigkeit.tex "beispiel_mehrsprachigkeit.tex")|
+[Gleitobjekte, externe Grafiken](./beispiel_gleitobjekte.tex "beispiel_gleitobjekte.tex") |
+[mehrere Grafiken in einer Abbildung](./beispiel_subfigure.tex "beispiel_subfigure.tex")  | [Bilddatei](./raptor.pdf "raptor.pdf")
+[bibliographische Referenzen](./beispiel_biblatex.tex "beispiel_biblatex.tex")            | [Bib-Datenbank](./referenzen.bib "referenzen.bib")
+
+
+<br>Alternativ finden können hier auch [alle Dateien als zip-Datei](./latexworkshop_tag1.zip "latexworkshop_tag1.zip") herunterladen.
