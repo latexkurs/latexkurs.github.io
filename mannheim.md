@@ -64,7 +64,7 @@ Bibliografien, Formelsatz, Tabellen, Diagramme<!--(./folien_tag2.pdf "Folien zu 
 [Kopf- und Fußzeilen](./beispiel_kopfzeile.tex "beispiel_kopfzeile.tex")                  |
 [Schriftauswahl](./beispiel_schriften.tex "beispiel_schriften.tex")                       |
 [mehrsprachige Dokumente](./beispiel_mehrsprachigkeit.tex "beispiel_mehrsprachigkeit.tex")|
-[Gleitobjekte, externe Grafiken](./beispiel_gleitobjekte.tex "beispiel_gleitobjekte.tex") |
+[Gleitobjekte, externe Grafiken](./beispiel_gleitobjekte.tex "beispiel_gleitobjekte.tex") | [Bilddatei](./raptor.pdf "raptor.pdf")
 [mehrere Grafiken in einer Abbildung](./beispiel_subfigure.tex "beispiel_subfigure.tex")  | [Bilddatei](./raptor.pdf "raptor.pdf")
 [bibliographische Referenzen](./beispiel_biblatex.tex "beispiel_biblatex.tex")            | [Bib-Datenbank](./referenzen.bib "referenzen.bib")
 
