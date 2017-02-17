@@ -51,7 +51,7 @@ Der Kurs richtet sich an Bachelorstudierende der VWL (ggf. auch für Master bei 
 **Folien**     |
 ---------------|---------------------------------------------------------------------------
 [Grundlagen, Sprachen, Gleitobjekte, Bilder](./folien_tag1.pdf "Folien zu Tag 1 (PDF)")   | (Tag 1)
-Bibliografien, Formelsatz, Tabellen, Diagramme<!--(./folien_tag2.pdf "Folien zu Tag 2 (PDF)")--> | (Tag 2)
+[Bibliografien, Formelsatz, Tabellen, Diagramme](./folien_tag2.pdf "Folien zu Tag 2 (PDF)") | (Tag 2)
 |
 **Übungen**    |
 ---------------|---------------------------------------------------------------------------
@@ -67,6 +67,7 @@ Bibliografien, Formelsatz, Tabellen, Diagramme<!--(./folien_tag2.pdf "Folien zu 
 [Gleitobjekte, externe Grafiken](./beispiel_gleitobjekte.tex "beispiel_gleitobjekte.tex") | [Bilddatei](./raptor.pdf "raptor.pdf")
 [mehrere Grafiken in einer Abbildung](./beispiel_subfigure.tex "beispiel_subfigure.tex")  | [Bilddatei](./raptor.pdf "raptor.pdf")
 [bibliographische Referenzen](./beispiel_biblatex.tex "beispiel_biblatex.tex")            | [Bib-Datenbank](./referenzen.bib "referenzen.bib")
-
-
-<br>Alternativ finden können hier auch [alle Dateien als zip-Datei](./latexworkshop_tag1.zip "latexworkshop_tag1.zip") herunterladen.
+[mathematische Formeln](./beispiel_mathe.tex "beispiel_mathe.tex")                        |
+[längere Arbeit auf Basis von scrreprt](./beispiel_laengere_arbeit.tex "beispiel_laengere_arbeit,tex")  |
+[fancy Diagram](./beispiel_diagram.tex "beispiel_diagram.tex")                            |
+[Vorlage Bachelorarbeit (überarbeitet)](./Vorlage_Bachelorarbeit_XeLaTeX.zip "Vorlage_Bachelorarbeit_XeLaTeX.zip")  |
