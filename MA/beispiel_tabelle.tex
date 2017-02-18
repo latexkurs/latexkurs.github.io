@@ -1,0 +1,50 @@
+\documentclass[onesided,12pt,a4paper]{scrreprt}
+
+\usepackage{
+%	array,
+	booktabs,
+	microtype,
+	tabulary,
+	xltxtra,
+}
+
+\usepackage{polyglossia}
+\setmainlanguage{english}
+\setotherlanguage{german}
+
+\begin{document}
+
+\chapter{Tabellen}
+\section{Standart-\LaTeX-Tabelle \texttt{tabular}}
+
+\begin{table}[h]
+	\centering
+	\caption{Beispieltabelle mit \texttt{tabular}}
+	\begin{tabular}{lcrp{3cm}}
+		\toprule
+		linksbündig & zentriert & rechtsbündig & umgebrochen \\
+		\midrule
+		Zelle 1 & Zelle 2		 & dritte Zelle &		in dieser Zelle wird der Text nach 3\,cm umgebrochen. \\
+		\bottomrule
+	\end{tabular}
+\end{table}
+
+
+\section{Automatischer Umbruch mit \texttt{tabulary}}
+
+\begin{table}[hb]
+	\caption{Beispieltabelle mit \texttt{tabulary}}
+	\begin{tabulary}{\textwidth}{LCRJ}
+		\toprule
+		linksbündig & zentriert & rechtsbündig & Blocksatz \\
+		\midrule
+		In der ersten Spalte wird der Text automatisch umgebrochen und linksbündig dargestellt. &
+		In der zweiten Spalte wird der Text automatisch umgebrochen und zentriert dargestellt. &
+		In der dritten Spalte wird der Text automatisch umgebrochen und rechtsbündig dargestellt. &
+		In der vierten Spalte wird der Text automatisch umgebrochen und im Blocksatz dargestellt. \\
+		\bottomrule
+	\end{tabulary}
+\end{table}
+
+
+\end{document}

@@ -68,6 +68,7 @@ Der Kurs richtet sich an Bachelorstudierende der VWL (ggf. auch für Master bei 
 [mehrere Grafiken in einer Abbildung](./beispiel_subfigure.tex "beispiel_subfigure.tex")  | [Bilddatei](./raptor.pdf "raptor.pdf")
 [bibliographische Referenzen](./beispiel_biblatex.tex "beispiel_biblatex.tex")            | [Bib-Datenbank](./referenzen.bib "referenzen.bib")
 [mathematische Formeln](./beispiel_mathe.tex "beispiel_mathe.tex")                        |
+[Tabellen](./beispiel_tabelle.tex "beispiel_tabelle.tex")                                 |
 [längere Arbeit auf Basis von scrreprt](./beispiel_laengere_arbeit.tex "beispiel_laengere_arbeit,tex")  |
 [fancy Diagram](./beispiel_diagram.tex "beispiel_diagram.tex")                            |
 [Vorlage Bachelorarbeit (überarbeitet)](./Vorlage_Bachelorarbeit_XeLaTeX.zip "Vorlage_Bachelorarbeit_XeLaTeX.zip")  |
