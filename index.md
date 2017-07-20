@@ -29,8 +29,9 @@ Das Textsatzsystem LaTeX hat sich in den vergangenen Jahren und Jahrzehnten als 
 
 ### Zeit und Ort
 
-Freitags 14:00–16:00 Uhr<br>
-INF 308, Hörsaal 2
+Die Vorlesung wird voraussichtlich
+Freitags 14:00–16:00 Uhr stattfinden<br>
+der Ort wird noch bekannt gegeben
 
 ### Empfohlene Vorkenntnisse
 
@@ -44,7 +45,7 @@ Der Kurs richtet sich an Studierende aller Fachrichtungen, insbesondere Informat
 
 Für die erfolgreiche Teilnahme an der Vorlesung sind folgende Formalia einzuhalten:
 
-* Anmeldung im <a href="https://muesli.mathi.uni-heidelberg.de/lecture/view/605">MÜSLI</a>
+* Anmeldung im <a href="https://muesli.mathi.uni-heidelberg.de/lecture/view/750">MÜSLI</a>
 * Bearbeiten der wöchentlichen <a href="exercises">Übungszettel</a>
 * Erreichen von mindestens 50% der möglichen Gesamtpunktzahl
 * Scheinnote richtet sich nach erreichter Punktzahl in den Übungen (50% = Note 4,0; 100% = Note 1,0)
