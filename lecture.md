@@ -22,4 +22,4 @@ Termin     | Thema
 12.01.2018 | [Präsentationen](./09_praesentationen.pdf)
 19.01.2018 | [Briefe, Lebensläufe](./10_brief_lebenslauf.pdf)
 26.01.2018 | [komplexe Makros und Befehle](./11_komplexe_makros.pdf)
-03.02.2018 | [eigene Klassen und Pakete schreiben](./12_eigene_klassen.pdf)
+02.02.2018 | [eigene Klassen und Pakete schreiben](./12_eigene_klassen.pdf)
