@@ -29,9 +29,10 @@ Das Textsatzsystem LaTeX hat sich in den vergangenen Jahren und Jahrzehnten als 
 
 ### Zeit und Ort
 
-Die Vorlesung wird voraussichtlich
-Freitags 14:00–16:00 Uhr stattfinden<br>
-der Ort wird noch bekannt gegeben
+Die Vorlesung wird <i>voraussichtlich</i>
+Freitags 14:00–16:00 Uhr
+im Hörsaal des Mathematikon (<a href="http://osm.org/go/0DwYyjUal--?m=">INF 205</a>)
+stattfinden.
 
 ### Empfohlene Vorkenntnisse
 
@@ -49,6 +50,8 @@ Für die erfolgreiche Teilnahme an der Vorlesung sind folgende Formalia einzuhal
 * Bearbeiten der wöchentlichen <a href="exercises">Übungszettel</a>
 * Erreichen von mindestens 50% der möglichen Gesamtpunktzahl
 * Scheinnote richtet sich nach erreichter Punktzahl in den Übungen (50% = Note 4,0; 100% = Note 1,0)
+
+Die Informatik vergibt für den Kurs 2 Credit Points im Bereich Übergreifende Kompetenz (FÜK). Andere Studienfächer können bei der Punktevergabe abweichen (tun das in der Regel aber nicht).
 
 
 <!--
