@@ -29,10 +29,10 @@ Das Textsatzsystem LaTeX hat sich in den vergangenen Jahren und Jahrzehnten als 
 
 ### Zeit und Ort
 
-Die Vorlesung wird <i>voraussichtlich</i>
+Die Vorlesung findet immer
 Freitags 14:00–16:00 Uhr
 im Hörsaal des Mathematikon (<a href="http://osm.org/go/0DwYyjUal--?m=">INF 205</a>)
-stattfinden.
+statt.
 
 ### Empfohlene Vorkenntnisse
 
