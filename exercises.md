@@ -19,9 +19,9 @@ Zettel                                                   | Abgabe bis | Material
 [Übungsblatt 3](./03_tabellen.pdf)                       | 17.11.2017 |
 [Übungsblatt 4](./04_masseinheiten.pdf)                  | 24.11.2017 |
 [Übungsblatt 5](./05_abbildungen_tikz.pdf)               | 01.12.2017 |
+[Übungsblatt 6](./06_diagramme.pdf)                      | 08.12.2017 | [Messwerte](06_messwerte.dat)
 
 <!--
-[Übungsblatt 6](./06_diagramme.pdf)                      | 08.12.2017 | [Messwerte](06_messwerte.dat)
 [Übungsblatt 7](./07_umfangreiches_dokument.pdf)         | 15.12.2017 | [Projektdateien](07_projekt.zip)
 [Weihnachtsblatt](./weihnachtsblatt.pdf)                 | 12.01.2018 |
 [Übungsblatt 8](./08_bibliographie_mehrsprachigkeit.pdf) | 19.01.2018 |
