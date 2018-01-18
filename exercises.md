@@ -24,9 +24,10 @@ Zettel                                                   | Abgabe bis | Material
 [Übungsblatt 8](./08_bibliographie_mehrsprachigkeit.pdf) | 22.12.2017 |
 [Weihnachtsblatt](./weihnachtsblatt.pdf)                 | 12.01.2018 |
 [Übungsblatt 9](./09_praesentationen.pdf)                | 19.01.2018 |
+[Übungsblatt 10](./10_brief_lebenslauf.pdf) 	         | 26.01.2018 |
 
 <!--
-[Übungsblatt 10](./10_brief_lebenslauf.pdf) 	         | 26.01.2018 |
+
 -->
 
 ## Formalia

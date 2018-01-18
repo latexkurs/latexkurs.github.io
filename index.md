@@ -54,7 +54,7 @@ Für die erfolgreiche Teilnahme an der Vorlesung sind folgende Formalia einzuhal
 Die Informatik vergibt für den Kurs 2 Credit Points im Bereich Übergreifende Kompetenz (FÜK). Andere Studienfächer können bei der Punktevergabe abweichen (tun das in der Regel aber nicht).
 
 
-<!--
+
 ### Noten
 Da es sich bei den vergebenen Leistungspunkten um FÜK-Punkte handelt, kann es (je nach Regelung in Ihrer Prüfungsordnung) sein, dass die Veranstaltung unbenotet in Ihrem Transscript auftaucht. Die an das jeweilige Prüfungssektretariat übermittelte Note wird voraussichtlich folgendermaßen aus der in den [Übungen](./exercises) erreichten Punktzahl _P_ bestimmt:
 
@@ -112,4 +112,4 @@ Da es sich bei den vergebenen Leistungspunkten um FÜK-Punkte handelt, kann es (
 	    <td>1.0</td>
 	</tr>
 </table>
--->
+
