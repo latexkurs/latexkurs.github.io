@@ -32,9 +32,9 @@ LaTeX-Distribution installieren müssen.
 
 ### Zeit und Ort
 
-Kurs 1: Samstag 11.02. und Samstag 18.02.2017 jeweils 10 bis 15 Uhr
+Kurs 1: Samstag 03.02. und Sonntag 04.02.2018 jeweils 10 bis 15 Uhr
 
-Kurs 2: Samstag 25.02. und Samstag 04.03.2017 jeweils 10 bis 15 Uhr
+Kurs 2: Samstag 17.02. und Sonntag 18.02.2018 jeweils 10 bis 15 Uhr
 
 Die Kurse finden voraussichtlich jeweils in L2 1–2, Raum 003 statt.
 
@@ -50,25 +50,25 @@ Der Kurs richtet sich an Bachelorstudierende der VWL (ggf. auch für Master bei 
 
 **Folien**     |
 ---------------|---------------------------------------------------------------------------
-[Grundlagen, Sprachen, Gleitobjekte, Bilder](./folien_tag1.pdf "Folien zu Tag 1 (PDF)")   | (Tag 1)
-[Bibliografien, Formelsatz, Tabellen, Diagramme](./folien_tag2.pdf "Folien zu Tag 2 (PDF)") | (Tag 2)
+<i class="fa fa-file-pdf-o"></i> [Grundlagen, Sprachen, Gleitobjekte, Bilder](./folien_tag1.pdf "Folien zu Tag 1 (PDF)")   | (Tag 1)
+<i class="fa fa-file-pdf-o"></i> [Bibliografien, Formelsatz, Tabellen, Diagramme](./folien_tag2.pdf "Folien zu Tag 2 (PDF)") | (Tag 2)
 |
 **Übungen**    |
 ---------------|---------------------------------------------------------------------------
-[Makrotypografische Einstellungen](./uebung_layout.tex "uebung_layout.tex")         |
-[Fehlersuche, Minimalbeispiel](./uebung_fehlermeldungen.tex "uebung_fehlermeldungen.tex") | [Lösung](./uebung_fehlermeldungen_loesung.tex "uebung_fehlermeldungen_loesung.tex")
+<i class="fa fa-file-code-o"></i> [Makrotypografische Einstellungen](./uebung_layout.tex "uebung_layout.tex")         |
+<i class="fa fa-file-code-o"></i> [Fehlersuche, Minimalbeispiel](./uebung_fehlermeldungen.tex "uebung_fehlermeldungen.tex") | <i class="fa fa-file-code-o"></i> [Lösung](./uebung_fehlermeldungen_loesung.tex "uebung_fehlermeldungen_loesung.tex")
 |
 **Beispiele**  |
 ---------------|---------------------------------------------------------------------------
-[Grundbefehle](./beispiel_grundbefehle.tex "beispiel_grundbefehle.tex")                   |
-[Kopf- und Fußzeilen](./beispiel_kopfzeile.tex "beispiel_kopfzeile.tex")                  |
-[Schriftauswahl](./beispiel_schriften.tex "beispiel_schriften.tex")                       |
-[mehrsprachige Dokumente](./beispiel_mehrsprachigkeit.tex "beispiel_mehrsprachigkeit.tex")|
-[Gleitobjekte, externe Grafiken](./beispiel_gleitobjekte.tex "beispiel_gleitobjekte.tex") | [Bilddatei](./raptor.pdf "raptor.pdf")
-[mehrere Grafiken in einer Abbildung](./beispiel_subfigure.tex "beispiel_subfigure.tex")  | [Bilddatei](./raptor.pdf "raptor.pdf")
-[bibliographische Referenzen](./beispiel_biblatex.tex "beispiel_biblatex.tex")            | [Bib-Datenbank](./referenzen.bib "referenzen.bib")
-[mathematische Formeln](./beispiel_mathe.tex "beispiel_mathe.tex")                        |
-[Tabellen](./beispiel_tabelle.tex "beispiel_tabelle.tex")                                 |
-[längere Arbeit auf Basis von scrreprt](./beispiel_laengere_arbeit.tex "beispiel_laengere_arbeit,tex")  |
-[fancy Diagram](./beispiel_diagram.tex "beispiel_diagram.tex")                            |
-[Vorlage Bachelorarbeit (überarbeitet)](./Vorlage_Bachelorarbeit_XeLaTeX.zip "Vorlage_Bachelorarbeit_XeLaTeX.zip")  |
+<i class="fa fa-file-code-o"></i> [Grundbefehle](./beispiel_grundbefehle.tex "beispiel_grundbefehle.tex")                   |
+<i class="fa fa-file-code-o"></i> [Kopf- und Fußzeilen](./beispiel_kopfzeile.tex "beispiel_kopfzeile.tex")                  |
+<i class="fa fa-file-code-o"></i> [Schriftauswahl](./beispiel_schriften.tex "beispiel_schriften.tex")                       |
+<i class="fa fa-file-code-o"></i> [mehrsprachige Dokumente](./beispiel_mehrsprachigkeit.tex "beispiel_mehrsprachigkeit.tex")|
+<i class="fa fa-file-code-o"></i> [Gleitobjekte, externe Grafiken](./beispiel_gleitobjekte.tex "beispiel_gleitobjekte.tex") | <i class="fa fa-file-image-o"></i>  [Bilddatei](./raptor.pdf "raptor.pdf")
+<i class="fa fa-file-code-o"></i> [mehrere Grafiken in einer Abbildung](./beispiel_subfigure.tex "beispiel_subfigure.tex")  | <i class="fa fa-file-image-o"></i>  [Bilddatei](./raptor.pdf "raptor.pdf")
+<i class="fa fa-file-code-o"></i> [bibliographische Referenzen](./beispiel_biblatex.tex "beispiel_biblatex.tex")            | <i class="fa fa-file-code-o"></i> [Bib-Datenbank](./referenzen.bib "referenzen.bib")
+<i class="fa fa-file-code-o"></i> [mathematische Formeln](./beispiel_mathe.tex "beispiel_mathe.tex")                        |
+<i class="fa fa-file-code-o"></i> [Tabellen](./beispiel_tabelle.tex "beispiel_tabelle.tex")                                 |
+<i class="fa fa-file-code-o"></i> [längere Arbeit auf Basis von scrreprt](./beispiel_laengere_arbeit.tex "beispiel_laengere_arbeit,tex")  |
+<i class="fa fa-file-code-o"></i> [fancy Diagram](./beispiel_diagram.tex "beispiel_diagram.tex")                            |
+<i class="fa fa-file-archive-o"></i> [Vorlage Bachelorarbeit (überarbeitet)](./Vorlage_Bachelorarbeit_XeLaTeX.zip "Vorlage_Bachelorarbeit_XeLaTeX.zip")  |
