@@ -20,7 +20,7 @@ Quellenverwaltung mit biblatex/biber. Während des Kurses werden Sie interaktiv 
 ausprobieren. Bitte beachten Sie, dass Sie einen Laptop zur Veranstaltung mitbringen und vorab eine 
 LaTeX-Distribution installieren müssen.
 
-[Hinweise zur Installation eines TeX-Systems](./00_texlive_installation.pdf "Installationshinweise (PDF)")
+[Hinweise zur Installation eines TeX-Systems](./Installationshinweise.pdf "Installationshinweise (PDF)")
 
 ### Themen
 
@@ -50,8 +50,8 @@ Der Kurs richtet sich an Bachelorstudierende der VWL (ggf. auch für Master bei 
 
 **Folien**     |
 ---------------|---------------------------------------------------------------------------
-<i class="fa fa-file-pdf-o"></i> [Grundlagen, Sprachen, Gleitobjekte, Bilder](./folien_tag1.pdf "Folien zu Tag 1 (PDF)")   | (Tag 1)
-<i class="fa fa-file-pdf-o"></i> [Bibliografien, Formelsatz, Tabellen, Diagramme](./folien_tag2.pdf "Folien zu Tag 2 (PDF)") | (Tag 2)
+<i class="fa fa-file-pdf-o"></i> [Grundlagen, Sprachen, Gleitobjekte, Bilder](./TeX-Workshop_01.pdf "Folien zu Tag 1 (PDF)")   | (Tag 1)
+<i class="fa fa-file-pdf-o"></i> [Bibliografien, Formelsatz, Tabellen, Diagramme](./TeX-Workshop_02.pdf "Folien zu Tag 2 (PDF)") | (Tag 2)
 |
 **Übungen**    |
 ---------------|---------------------------------------------------------------------------
