@@ -55,7 +55,8 @@ Der Kurs richtet sich an Bachelorstudierende der VWL (ggf. auch für Master bei 
 |
 **Übungen**    |
 ---------------|---------------------------------------------------------------------------
-<i class="fa fa-file-code-o"></i> [Makrotypografische Einstellungen](./uebung_layout.tex "uebung_layout.tex")         |
+<i class="fa fa-file-code-o"></i> [Makrotypografische Einstellungen](./uebung_layout.tex "uebung_layout.tex")         | <i class="fa fa-fi\
+le-code-o"></i> [Lösung](./uebung_layout_loesung.tex "uebung_layout_loesung.tex")
 <i class="fa fa-file-code-o"></i> [Fehlersuche, Minimalbeispiel](./uebung_fehlermeldungen.tex "uebung_fehlermeldungen.tex") | <i class="fa fa-file-code-o"></i> [Lösung](./uebung_fehlermeldungen_loesung.tex "uebung_fehlermeldungen_loesung.tex")
 |
 **Beispiele**  |
