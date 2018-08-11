@@ -14,6 +14,8 @@ weight: 3
 Zettel                                                   | Abgabe bis | Material
 ---------------------------------------------------------|------------|-------------------------
 [Übungsblatt 0](./00_erste_schritte.pdf)                 | 27.10.2017 |
+
+<!--
 [Übungsblatt 1](./01_schriften_kodierungen.pdf)          | 03.11.2017 |
 [Übungsblatt 2](./02_mathesatz.pdf)                      | 10.11.2017 |
 [Übungsblatt 3](./03_tabellen.pdf)                       | 17.11.2017 |
@@ -26,7 +28,6 @@ Zettel                                                   | Abgabe bis | Material
 [Übungsblatt 9](./09_praesentationen.pdf)                | 19.01.2018 |
 [Übungsblatt 10](./10_brief_lebenslauf.pdf) 	         | 26.01.2018 |
 
-<!--
 
 -->
 

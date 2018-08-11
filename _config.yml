@@ -7,13 +7,13 @@
 
 # Site settings
 title: LaTeX-Kurs
-longtitle: LaTeX Kurs WS 2017
-email: moritz.brinkmann@iwr.uni-heidelberg.de
-description: Einführung in das Textsatzsystem LaTeX im WS 2017 an der Uni Heidelberg
+longtitle: LaTeX Kurs WS 2018
+email: support@latexkurs.de
+description: Einführung in das Textsatzsystem LaTeX im WS 2018 an der Uni Heidelberg
 baseurl: ""  # the subpath of your site, e.g. /blog
 url: "http://latexkurs.github.io" # the base hostname & protocol for your site
-twitter_username: derkleineMo
-github_username:  derkleineMo
+twitter_username: imntl_
+github_username:  imntl
 
 # Build settings
 markdown: kramdown
