@@ -13,20 +13,32 @@ weight: 3
 
 Zettel                                                   | Abgabe bis | Material
 ---------------------------------------------------------|------------|-------------------------
-[Übungsblatt 0](./00_erste_schritte.pdf)                 | 27.10.2017 |
+[Übungsblatt 0](./00_erste_schritte.pdf)                 | 22.10.2018 |
 
 <!--
-[Übungsblatt 1](./01_schriften_kodierungen.pdf)          | 03.11.2017 |
-[Übungsblatt 2](./02_mathesatz.pdf)                      | 10.11.2017 |
-[Übungsblatt 3](./03_tabellen.pdf)                       | 17.11.2017 |
-[Übungsblatt 4](./04_masseinheiten.pdf)                  | 24.11.2017 |
-[Übungsblatt 5](./05_abbildungen_tikz.pdf)               | 01.12.2017 |
-[Übungsblatt 6](./06_diagramme.pdf)                      | 08.12.2017 | [Messwerte](06_messwerte.dat)
-[Übungsblatt 7](./07_umfangreiches_dokument.pdf)         | 15.12.2017 | [Projektdateien](07_projekt.zip)
-[Übungsblatt 8](./08_bibliographie_mehrsprachigkeit.pdf) | 22.12.2017 |
-[Weihnachtsblatt](./weihnachtsblatt.pdf)                 | 12.01.2018 |
-[Übungsblatt 9](./09_praesentationen.pdf)                | 19.01.2018 |
-[Übungsblatt 10](./10_brief_lebenslauf.pdf) 	         | 26.01.2018 |
+[Übungsblatt 1](./01_schriften_kodierungen.pdf)          | 29.10.2018 |
+[Übungsblatt 2](./02_mathesatz.pdf)                      | 05.11.2018 |
+[Übungsblatt 3](./03_tabellen.pdf)                       | 12.11.2018 |
+[Übungsblatt 4](./04_masseinheiten.pdf)                  | 19.11.2018 |
+[Übungsblatt 5](./05_abbildungen_tikz.pdf)               | 26.11.2018 |
+[Übungsblatt 6](./06_diagramme.pdf)                      | 03.12.2018 | [Messwerte](06_messwerte.dat)
+[Übungsblatt 7](./07_umfangreiches_dokument.pdf)         | 10.12.2018 | [Projektdateien](07_projekt.zip)
+[Übungsblatt 8](./08_bibliographie_mehrsprachigkeit.pdf) | 17.12.2018 |
+[Weihnachtsblatt](./weihnachtsblatt.pdf)                 | 07.01.2019 |
+[Übungsblatt 9](./09_praesentationen.pdf)                | 14.01.2019 |
+[Übungsblatt 10](./10_brief_lebenslauf.pdf) 	         | 21.01.2019 |
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 -->
