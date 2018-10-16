@@ -9,7 +9,7 @@ Hier gibt es einen Überblick über die geplanten Vorlesungstermine und – jewe
 
 Termin     | Thema
 -----------|-----------------------------------------------------------------------
-15.10.2018 | Einführung, grundlegende Bedienung<!--[Einführung, grundlegende Bedienung](./00_einfuehrung_grundlagen.pdf)-->
+15.10.2018 | [Einführung, grundlegende Bedienung](./00_einfuehrung_grundlagen.pdf)
 22.10.2018 | Allgemeine Formatierung und Pakete<!--[Allgemeine Formatierung und Pakete](./01_formatierung_pakete.pdf)-->
 29.10.2018 | Mathematiksatz I<!--[Mathematiksatz I](./02_mathesatz_i.pdf)-->
 05.11.2018 | Gleitumgebungen<!--[Gleitumgebungen, Tabellen](./03_gleitumgebungen_tabellen.pdf)-->
