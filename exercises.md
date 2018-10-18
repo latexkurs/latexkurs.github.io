@@ -34,7 +34,7 @@ Zettel                                                   | Abgabe bis | Material
 
 Zum Übungsbetrieb sind folgende Punkte zu beachten:
 
-* Übungsaufgaben sind bis spätestens nach der nächsten Vorlesung (Freitag 15:30 Uhr) abzugeben.
+* Übungsaufgaben sind bis spätestens nach der nächsten Vorlesung (Montag 16:15 Uhr) abzugeben.
   Die Lösungen können entweder in der Vorlesung abgegeben oder in die Zettelkästen im ersten Stock des Mathematikons (<a href="http://osm.org/go/0DwYyjIMU-?m=">INF 205</a>) eingeworfen werden.
 * Die Abgabe erfolgt in Gruppen von mindestens zwei und höchstens drei Menschen.
 * Zur Abgabe muss der Sourcecode (.tex-Dateien) jeweils fristgerecht per Mail an <a href="mailto:abgabe@latexkurs.de?subject=LaTeX-Abgabe%20:">abgabe [at] latexkurs.de</a> geschickt und die geforderten Ausdrucke in der Vorlesung abgegeben werden.
