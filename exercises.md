@@ -13,10 +13,10 @@ weight: 3
 
 Zettel                                                   | Abgabe bis | Material
 ---------------------------------------------------------|------------|-------------------------
-[Übungsblatt 0](./00_erste_schritte.pdf)                 | 22.10.2018 |
+[Übungsblatt 0](./00_erste_schritte_lsg.pdf)             | 22.10.2018 |
+[Übungsblatt 1](./01_schriften_kodierungen.pdf)          | 29.10.2018 |
 
 <!--
-[Übungsblatt 1](./01_schriften_kodierungen.pdf)          | 29.10.2018 |
 [Übungsblatt 2](./02_mathesatz.pdf)                      | 05.11.2018 |
 [Übungsblatt 3](./03_tabellen.pdf)                       | 12.11.2018 |
 [Übungsblatt 4](./04_masseinheiten.pdf)                  | 19.11.2018 |
@@ -27,7 +27,6 @@ Zettel                                                   | Abgabe bis | Material
 [Weihnachtsblatt](./weihnachtsblatt.pdf)                 | 07.01.2019 |
 [Übungsblatt 9](./09_praesentationen.pdf)                | 14.01.2019 |
 [Übungsblatt 10](./10_brief_lebenslauf.pdf) 	         | 21.01.2019 |
-
 -->
 
 ## Formalia
