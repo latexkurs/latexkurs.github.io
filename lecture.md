@@ -11,7 +11,7 @@ Termin     | Thema
 -----------|-----------------------------------------------------------------------
 15.10.2018 | [Einführung, grundlegende Bedienung](./00_einfuehrung_grundlagen.pdf)
 22.10.2018 | [Allgemeine Formatierung und Pakete](./01_formatierung_pakete.pdf)
-29.10.2018 | Mathematiksatz I<!--[Mathematiksatz I](./02_mathesatz_i.pdf)-->
+29.10.2018 | [Mathematiksatz I](./02_mathesatz_i.pdf)
 05.11.2018 | Gleitumgebungen<!--[Gleitumgebungen, Tabellen](./03_gleitumgebungen_tabellen.pdf)-->
 12.11.2018 | Mathematiksatz II<!--[Mathematiksatz II](./04_mathesatz_ii.pdf)-->
 19.11.2018 | Grafiken, Abbildungen, TikZ<!--[Grafiken, Abbildungen, TikZ](./05_grafiken_abbildungen_tikz.pdf)-->
