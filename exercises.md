@@ -17,9 +17,8 @@ Zettel                                                   | Abgabe bis | Material
 [Übungsblatt 1](./01_schriften_kodierungen_lsg.pdf)      | 29.10.2018 |
 [Übungsblatt 2](./02_mathesatz_lsg.pdf)                  | 05.11.2018 |
 [Übungsblatt 3](./03_tabellen_lsg.pdf)                   | 12.11.2018 |
-[Übungsblatt 4](./04_masseinheiten.pdf)                  | 19.11.2018 |
-<!--
-[Übungsblatt 5](./05_grafiken_abbildungen_tikz.pdf)      | 26.11.2018 |-->
+[Übungsblatt 4](./04_masseinheiten_lsg.pdf)              | 19.11.2018 |
+[Übungsblatt 5](./05_abbildungen_tikz.pdf)               | 26.11.2018 |
 
 <!--
 [Übungsblatt 6](./06_diagramme.pdf)                      | 03.12.2018 | [Messwerte](06_messwerte.dat)
