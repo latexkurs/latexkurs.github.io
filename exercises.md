@@ -19,10 +19,10 @@ Zettel                                                   | Abgabe bis | Material
 [Übungsblatt 3](./03_tabellen_lsg.pdf)                   | 12.11.2018 |
 [Übungsblatt 4](./04_masseinheiten_lsg.pdf)              | 19.11.2018 |
 [Übungsblatt 5](./05_abbildungen_tikz_lsg.pdf)           | 26.11.2018 |
-[Übungsblatt 6](./06_diagramme.pdf)                      | 03.12.2018 | [Messwerte](06_messwerte.dat)
+[Übungsblatt 6](./06_diagramme_lsg.pdf)                  | 03.12.2018 | [Messwerte](06_messwerte.dat)
+[Übungsblatt 7](./07_umfangreiches_dokument.pdf)         | 10.12.2018 | [Projektdateien](07_projekt.zip)
 
 <!--
-[Übungsblatt 7](./07_umfangreiches_dokument.pdf)         | 10.12.2018 | [Projektdateien](07_projekt.zip)
 [Übungsblatt 8](./08_bibliographie_mehrsprachigkeit.pdf) | 17.12.2018 |
 [Weihnachtsblatt](./weihnachtsblatt.pdf)                 | 07.01.2019 |
 [Übungsblatt 9](./09_praesentationen.pdf)                | 14.01.2019 |
