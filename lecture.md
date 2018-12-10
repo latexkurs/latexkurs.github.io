@@ -17,7 +17,7 @@ Termin     | Thema
 19.11.2018 | [Grafiken, Abbildungen, TikZ](./05_grafiken_abbildungen_tikz.pdf)
 26.11.2018 | [Diagramme](./06_diagramme.pdf)
 03.12.2018 | [Umfangreiche Dokumente](./07_umfangreiche_dokumente.pdf)
-10.12.2018 | Bibliographien, mehrsprachiger Satz<!--[Bibliographien, mehrsprachiger Satz](./08_bibliografien_mehrsprachigkeit.pdf)-->
+10.12.2018 | [Bibliographien, mehrsprachiger Satz](./08_bibliografien_mehrsprachigkeit.pdf)
 17.12.2018 | Witziges und Obskures<!--[Witziges und Obskures](./W_witziges_obskures.pdf)-->
 07.01.2019 | Präsentationen<!--[Präsentationen](./09_praesentationen.pdf)-->
 14.01.2019 | Briefe, Lebensläufe<!--[Briefe, Lebensläufe](./10_brief_lebenslauf.pdf)-->
