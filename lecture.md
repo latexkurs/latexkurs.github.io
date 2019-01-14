@@ -20,6 +20,6 @@ Termin     | Thema
 10.12.2018 | [Bibliographien, mehrsprachiger Satz](./08_bibliografien_mehrsprachigkeit.pdf)
 17.12.2018 | [Witziges, Obskures und Sinnvolles](./W_witziges_obskures.pdf)
 07.01.2019 | [Präsentationen](./09_praesentationen.pdf)
-14.01.2019 | Briefe, Lebensläufe<!--[Briefe, Lebensläufe](./10_brief_lebenslauf.pdf)-->
+14.01.2019 | [Briefe, Lebensläufe](./10_brief_lebenslauf.pdf)
 21.01.2019 | komplexe Makros und Befehle<!--[komplexe Makros und Befehle](./11_komplexe_makros.pdf)-->
 28.01.2019 | eigene Klassen und Pakete schreiben<!--[eigene Klassen und Pakete schreiben](./12_eigene_klassen.pdf)-->
