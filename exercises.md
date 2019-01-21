@@ -24,7 +24,7 @@ Zettel                                                   | Abgabe bis | Material
 [Übungsblatt 8](./08_bibliographie_mehrsprachigkeit_lsg.pdf) | 17.12.2018 |
 [Weihnachtsblatt](./weihnachtsblatt_lsg.pdf)                 | 07.01.2019 |
 [Übungsblatt 9](./09_praesentationen_lsg.pdf)                | 14.01.2019 |
-[Übungsblatt 10](./10_brief_lebenslauf.pdf) 	         | 21.01.2019 |
+[Übungsblatt 10](./10_brief_lebenslauf_lsg.pdf) 	         | 21.01.2019 |
 
 ## Formalia
 
