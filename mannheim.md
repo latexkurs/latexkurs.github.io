@@ -32,9 +32,9 @@ LaTeX-Distribution installieren müssen.
 
 ### Zeit und Ort
 
-Kurs 1: Samstag 03.02. und Sonntag 04.02.2018 jeweils 10 bis 15 Uhr
+Kurs 1: Samstag 02.02. und Sonntag 03.02.2019 jeweils 10 bis 15 Uhr
 
-Kurs 2: Samstag 17.02. und Sonntag 18.02.2018 jeweils 10 bis 15 Uhr
+Kurs 2: Samstag 23.02. und Sonntag 24.02.2019 jeweils 10 bis 15 Uhr
 
 Die Kurse finden voraussichtlich jeweils in L2 1–2, Raum 003 statt.
 
