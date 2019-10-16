@@ -8,7 +8,8 @@ weight: 3
 ## allgemeine Hinweise
 
 [Hinweise zur Installation eines TeX-Systems](./00_texlive_installation.pdf "Installationshinweise").
-Bitte nennt die einzelnen Teilaufgaben wie auf den Vorlesungsfolien besprochen. Die Lösungen könnt ihr dann in einen Ordner packen mit dem Namen übungen2_nachname_nachname.tex und diesen komprimieren. Den komprimierten Ordner schickt ihr per Mail an die Abgabe-Adresse. 
+Bitte nennt die einzelnen Teilaufgaben wie auf den Vorlesungsfolien besprochen. Die Lösungen könnt ihr dann in einen Ordner packen mit dem Namen übungen2_nachname1_nachname2_nachname3.tex (für den 2. Zettel. Die Zahl je nach Zettel bitte anpassen) und diesen komprimieren. Den komprimierten Ordner schickt ihr per Mail an die Abgabe-Adresse.
+ 
 
 ## Übungszettel
 
