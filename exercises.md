@@ -13,7 +13,7 @@ weight: 3
 
 Zettel                                                           | Abgabe bis | Material
 -----------------------------------------------------------------|------------|-----------------------
-[Übungsblatt 0](./00_erste_schritte.pdf)                         | 22.10.2019 |
+[Übungsblatt 0](./00_erste_schritte.pdf)                         | 23.10.2019 |
 <!-- [Übungsblatt 1](./01_schriften_kodierungen.pdf)-->          | 30.10.2019 |
 <!-- [Übungsblatt 2](./02_mathesatz.pdf)-->                      | 06.11.2019 |
 <!-- [Übungsblatt 3](./03_tabellen.pdf)-->                       | 13.11.2019 | 
