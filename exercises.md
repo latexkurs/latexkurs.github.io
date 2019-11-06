@@ -16,7 +16,7 @@ Bitte nennt die einzelnen Teilaufgaben wie auf den Vorlesungsfolien besprochen.
 Zettel                                                           | Abgabe bis | Material
 -----------------------------------------------------------------|------------|-----------------------
 [Übungsblatt 0](./00_erste_schritte_solution.pdf)                | 23.10.2019 |
-[Übungsblatt 1](./01_schriften_kodierungen.pdf)                  | 30.10.2019 |
+[Übungsblatt 1](./01_schriften_kodierungen_solutions.pdf)        | 30.10.2019 |
 [Übungsblatt 2](./02_mathesatz.pdf)                              | 06.11.2019 |
 [Übungsblatt 3](./03_tabellen.pdf)                               | 13.11.2019 | 
 <!-- [Übungsblatt 4](./04_masseinheiten.pdf)-->                  | 20.11.2019 | 
