@@ -35,7 +35,7 @@ Zum Übungsbetrieb sind folgende Punkte zu beachten:
 * Übungsaufgaben sind bis spätestens vor der nächsten Vorlesung (Mittwoch 16:00 Uhr) abzugeben.
   Die Lösungen können entweder in der Vorlesung abgegeben oder in die Zettelkästen im ersten Stock des Mathematikons (<a href="http://osm.org/go/0DwYyjIMU-?m=">INF 205</a>) eingeworfen werden.
 * Die Abgabe erfolgt in Gruppen von mindestens zwei und höchstens drei Menschen.
-* Zur Abgabe muss der Sourcecode (.tex-Dateien) jeweils fristgerecht per Mail an <a href="mailto:abgabe@latexkurs.de?subject=LaTeX-Abgabe%20:">abgabe [at] latexkurs.de</a> geschickt und die geforderten Ausdrucke in der Vorlesung abgegeben werden.
+* Zur Abgabe muss der Sourcecode (.tex-Dateien) jeweils fristgerecht per Mail an <a href="mailto:latexkurs-abgabe@mathphys.stura.uni-heidelberg.de?subject=LaTeX-Abgabe%20:">latexkurs-abgabe [at] mathphys.stura.uni-heidelberg.de</a> geschickt und die geforderten Ausdrucke in der Vorlesung abgegeben werden.
   (Für technische Fragen bitte die Adresse <a href="mailto:support@latexkurs.de"> support [at] latexkurs.de</a> verwenden.)
 * Schicken Sie bitte nur die TeX-Dateien per Mail; keine PDF-Dateien und keine zip-Archive, es sei denn, dies ist ausdrücklich gefordert.
 * Als Mail-Betreff bitte _LaTeX-Abgabe 1: Musterfrau, Mustermann_ benutzen.
