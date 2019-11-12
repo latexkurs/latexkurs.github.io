@@ -17,9 +17,9 @@ Zettel                                                           | Abgabe bis | 
 -----------------------------------------------------------------|------------|-----------------------
 [Übungsblatt 0](./00_erste_schritte_solution.pdf)                | 23.10.2019 |
 [Übungsblatt 1](./01_schriften_kodierungen_solutions.pdf)        | 30.10.2019 |
-[Übungsblatt 2](./02_mathesatz.pdf)                              | 06.11.2019 |
+[Übungsblatt 2](./02_mathesatz_solutions.pdf)                    | 06.11.2019 |
 [Übungsblatt 3](./03_tabellen.pdf)                               | 13.11.2019 | 
-<!-- [Übungsblatt 4](./04_masseinheiten.pdf)-->                  | 20.11.2019 | 
+[Übungsblatt 4](./04_masseinheiten.pdf)                          | 20.11.2019 | 
 <!-- [Übungsblatt 5](./05_abbildungen_tikz.pdf)-->               | 27.11.2019 |  
 <!-- [Übungsblatt 6](./06_diagramme.pdf)-->                      | 04.12.2019 | <!-- [Messwerte](06_messwerte.dat)-->
 <!-- [Übungsblatt 7](./07_umfangreiches_dokument.pdf)-->         | 11.12.2019 | <!-- [Projektdateien](07_projekt.zip)-->
