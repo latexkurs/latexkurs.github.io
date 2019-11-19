@@ -15,7 +15,7 @@ Termin     | Thema
 30.10.2019 | [Mathematiksatz I](./02_mathesatz_i.pdf)
 06.11.2019 | [Gleitumgebungen, Tabellen](./03_gleitumgebungen_tabellen.pdf)
 13.11.2019 | [Mathematiksatz II](./04_mathesatz_ii.pdf)
-20.11.2019 |<!-- [Grafiken, Abbildungen, TikZ](./05_grafiken_abbildungen_tikz.pdf)-->
+20.11.2019 | [Grafiken, Abbildungen, TikZ](./05_grafiken_abbildungen_tikz.pdf)
 27.11.2019 |<!-- [Diagramme](./06_diagramme.pdf)-->
 04.12.2019 |<!-- [Umfangreiche Dokumente](./07_umfangreiche_dokumente.pdf)-->
 11.12.2019 |<!-- [Bibliographien, mehrsprachiger Satz](./08_bibliografien_mehrsprachigkeit.pdf)-->
