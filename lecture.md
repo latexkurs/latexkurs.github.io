@@ -17,7 +17,7 @@ Termin     | Thema
 13.11.2019 | [Mathematiksatz II](./04_mathesatz_ii.pdf)
 20.11.2019 | [Grafiken, Abbildungen, TikZ](./05_grafiken_abbildungen_tikz.pdf)
 27.11.2019 | [Diagramme](./06_diagramme.pdf)
-04.12.2019 |<!-- [Umfangreiche Dokumente](./07_umfangreiche_dokumente.pdf)-->
+04.12.2019 | [Umfangreiche Dokumente](./07_umfangreiche_dokumente.pdf)
 11.12.2019 |<!-- [Bibliographien, mehrsprachiger Satz](./08_bibliografien_mehrsprachigkeit.pdf)-->
 18.12.2019 |<!-- [Witziges, Obskures und Sinnvolles](./W_witziges_obskures.pdf)-->
 08.01.2020 |<!-- [Präsentationen](./09_praesentationen.pdf)-->

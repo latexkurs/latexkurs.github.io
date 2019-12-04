@@ -19,10 +19,10 @@ Zettel                                                           | Abgabe bis | 
 [Übungsblatt 1](./01_schriften_kodierungen_solutions.pdf)        | 30.10.2019 |
 [Übungsblatt 2](./02_mathesatz_solution.pdf)                     | 06.11.2019 |
 [Übungsblatt 3](./03_tabellen_solution.pdf)                      | 13.11.2019 | 
-[Übungsblatt 4](./04_masseinheiten.pdf)                          | 20.11.2019 | 
-[Übungsblatt 5](./05_abbildungen_tikz.pdf)                       | 27.11.2019 |  
+[Übungsblatt 4](./04_masseinheiten_solution.pdf)                 | 20.11.2019 | 
+[Übungsblatt 5](./05_abbildungen_tikz_solution.pdf)              | 27.11.2019 |  
 [Übungsblatt 6](./06_diagramme.pdf)                              | 04.12.2019 |  [Messwerte](06_messwerte.dat)
-<!-- [Übungsblatt 7](./07_umfangreiches_dokument.pdf)-->         | 11.12.2019 | <!-- [Projektdateien](07_projekt.zip)-->
+[Übungsblatt 7](./07_umfangreiches_dokument.pdf)                 | 11.12.2019 |  [Projektdateien](07_projekt.zip)
 <!-- [Übungsblatt 8](./08_bibliographie_mehrsprachigkeit.pdf)--> | 18.12.2019 | 
 <!-- [Weihnachtsblatt](./weihnachtsblatt.pdf)-->                 | 08.01.2020 |  
 <!-- [Übungsblatt 9](./09_praesentationen.pdf)-->                | 15.01.2020 |
