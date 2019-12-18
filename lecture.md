@@ -19,7 +19,8 @@ Termin     | Thema
 27.11.2019 | [Diagramme](./06_diagramme.pdf)
 04.12.2019 | [Umfangreiche Dokumente](./07_umfangreiche_dokumente.pdf)
 11.12.2019 | [Bibliographien, mehrsprachiger Satz](./08_bibliografien_mehrsprachigkeit.pdf)
-18.12.2019 |<!-- [Witziges, Obskures und Sinnvolles](./W_witziges_obskures.pdf)-->
+18.12.2019 | [Präsentationen](./09_praesentationen.pdf)
+08.01.2020 |<!-- [Witziges, Obskures und Sinnvolles](./W_witziges_obskures.pdf)-->
 08.01.2020 |<!-- [Präsentationen](./09_praesentationen.pdf)-->
 15.01.2020 |<!-- [Briefe, Lebensläufe](./10_brief_lebenslauf.pdf)-->
 22.01.2020 |<!-- [komplexe Makros und Befehle](./11_komplexe_makros.pdf)-->
