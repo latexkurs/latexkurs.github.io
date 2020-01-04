@@ -32,11 +32,11 @@ LaTeX-Distribution installieren müssen.
 
 ### Zeit und Ort
 
-Kurs 1: Samstag 02.02. und Sonntag 03.02.2019 jeweils 10 bis 15 Uhr
+Kurs 1: Samstag 22.02. und Sonntag 23.02.2020 jeweils 10 bis 15 Uhr
 
-Kurs 2: Samstag 23.02. und Sonntag 24.02.2019 jeweils 10 bis 15 Uhr
+Kurs 2: Samstag 29.02. und Sonntag 01.03.2020 jeweils 10 bis 15 Uhr
 
-Die Kurse finden voraussichtlich jeweils in L2 1–2, Raum 003 statt.
+Ort wird noch bekannt gegeben.
 
 ### Empfohlene Vorkenntnisse
 
