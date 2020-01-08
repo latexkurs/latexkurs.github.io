@@ -23,9 +23,9 @@ Zettel                                                           | Abgabe bis | 
 [Übungsblatt 5](./05_abbildungen_tikz_solution.pdf)              | 27.11.2019 |  
 [Übungsblatt 6](./06_diagramme_solution.pdf)                     | 04.12.2019 |  [Messwerte](06_messwerte.dat)
 [Übungsblatt 7](./07_umfangreiches_dokument_solution.pdf)        | 11.12.2019 |  [Projektdateien](07_projekt.zip)
-[Übungsblatt 8](./08_bibliographie_mehrsprachigkeit.pdf)         | 18.12.2019 | 
+[Übungsblatt 8](./08_bibliographie_mehrsprachigkeit_solution.pdf)| 18.12.2019 | 
 [Weihnachtsblatt](./weihnachtsblatt.pdf)                         | 08.01.2020 |  
-<!-- [Übungsblatt 9](./09_praesentationen.pdf)-->                | 15.01.2020 |
+[Übungsblatt 9](./09_praesentationen.pdf)                        | 15.01.2020 |
 <!-- [Übungsblatt 10](#./10_brief_lebenslauf.pdf)--> 	         | 22.01.2020 |
 
 ## Formalia
