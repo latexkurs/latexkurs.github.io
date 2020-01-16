@@ -26,7 +26,7 @@ Zettel                                                           | Abgabe bis | 
 [Übungsblatt 8](./08_bibliographie_mehrsprachigkeit_solution.pdf)| 18.12.2019 | 
 [Weihnachtsblatt](./weihnachtsblatt.pdf)                         | 08.01.2020 |  
 [Übungsblatt 9](./09_praesentationen.pdf)                        | 15.01.2020 |
-[Übungsblatt 10](#./10_brief_lebenslauf.pdf) 	                 | 22.01.2020 |
+[Übungsblatt 10](./10_brief_lebenslauf.pdf) 	                 | 22.01.2020 |
 
 ## Formalia
 
