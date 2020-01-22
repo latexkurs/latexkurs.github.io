@@ -22,6 +22,6 @@ Termin     | Thema
 18.12.2019 | [Präsentationen](./09_praesentationen.pdf)
 08.01.2020 | [Briefe, Lebensläufe](./10_brief_lebenslauf.pdf)
 15.01.2020 | [komplexe Makros und Befehle](./11_komplexe_makros.pdf)
-22.01.2020 | [eigene Klassen und Pakete schreiben](./12_eigen:e_klassen.pdf)
+22.01.2020 | [eigene Klassen und Pakete schreiben](./12_eigene_klassen.pdf)
 <!--29.01.2020 |--> <!-- [Witziges, Obskures und Sinnvolles](./W_witziges_obskures.pdf)-->
 
