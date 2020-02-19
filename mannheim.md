@@ -36,7 +36,7 @@ Kurs 1: Samstag 22.02. und Sonntag 23.02.2020 jeweils 10 bis 15 Uhr
 
 Kurs 2: Samstag 29.02. und Sonntag 01.03.2020 jeweils 10 bis 15 Uhr
 
-Ort wird noch bekannt gegeben.
+Ort: O226/28 Seminarraum (Schloss Ostflügel)
 
 ### Empfohlene Vorkenntnisse
 
