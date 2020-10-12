@@ -29,10 +29,9 @@ Das Textsatzsystem LaTeX hat sich in den vergangenen Jahren und Jahrzehnten als 
 
 ### Zeit und Ort
 
-Die Vorlesung findet immer
-Mittwochs 16:00–18:00 Uhr
-im Hörsaal des Mathematikon (<a href="http://osm.org/go/0DwYyjUal--?m=">INF 205</a>)
-statt. Ausnahme: 16.10.19. Da findet die Vorlesung bereits um 14:00 Uhr statt
+Die Vorlesung findet dieses Semester im reversed classroom Format statt. Heißt ihr bekommt die Unterlagen zur Verfügung gestellt und könnt jeden Mittwoch um 16:00 Uhr online in einer Art Sprechstunde Fragen stellen.
+Die Anmeldung ist ab Donnerstag im <a href ="https://moodle.uni-heidelberg.de/course/view.php?id=3868">Moodle</a>möglich. Die Anmeldung ist auf 150 Teilnehmende beschränkt. Ein Einschreibeschlüssel ist nicht notwendig. Alle notwendigen Informationen finden sich dieses mal im Moodle.
+
 
 ### Empfohlene Vorkenntnisse
 
