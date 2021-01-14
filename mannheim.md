@@ -17,8 +17,7 @@ Der Kurs richtet sich insbesondere an Studierende, die vorhaben, ihre Seminar-, 
 mit dem Textsatzsystem LaTeX zu setzen. Der Kurs vermittelt die Grundlagen von LaTeX sowie den strukturierten Aufbau
 großer Arbeiten, den Umgang mit Gleitobjekten (Tabellen/Abbildungen) und Verzeichnissen sowie die Zitat- und
 Quellenverwaltung mit biblatex/biber. Während des Kurses werden Sie interaktiv alle wichtigen Elemente
-ausprobieren. Bitte beachten Sie, dass Sie einen Laptop zur Veranstaltung mitbringen und vorab eine 
-LaTeX-Distribution installieren müssen.
+ausprobieren. Bitte beachten Sie, dass Sie  vorab eine LaTeX-Distribution installieren müssen, oder beispielsweise einen Account für den [Online-LaTeX-Editor Overleaf](https://www.overleaf.com?r=60500875&rm=d&rs=b) benötigen.
 
 [Hinweise zur Installation eines TeX-Systems](./Installationshinweise.pdf "Installationshinweise (PDF)")
 
@@ -32,11 +31,11 @@ LaTeX-Distribution installieren müssen.
 
 ### Zeit und Ort
 
-Kurs 1: Samstag 22.02. und Sonntag 23.02.2020 jeweils 10 bis 15 Uhr
+Kurs 1: Samstag 06.03. und Sonntag 07.03.2021 jeweils 10 bis 14 Uhr
 
-Kurs 2: Samstag 29.02. und Sonntag 01.03.2020 jeweils 10 bis 15 Uhr
+Kurs 2: Samstag 13.02. und Sonntag 14.03.2021 jeweils 10 bis 14 Uhr
 
-Ort: Seminarraum O226/28 (Schloss Ostflügel)
+Ort: Online-Konferenzraum
 
 ### Empfohlene Vorkenntnisse
 
