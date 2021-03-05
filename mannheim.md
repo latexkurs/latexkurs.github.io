@@ -68,6 +68,6 @@ Der Kurs richtet sich an Bachelorstudierende der VWL (ggf. auch für Master bei 
 <i class="fa fa-file-code-o"></i> [bibliographische Referenzen](./beispiel_biblatex.tex "beispiel_biblatex.tex")            | <i class="fa fa-file-code-o"></i> [Bib-Datenbank](./referenzen.bib "referenzen.bib")
 <i class="fa fa-file-code-o"></i> [mathematische Formeln](./beispiel_mathe.tex "beispiel_mathe.tex")                        |
 <i class="fa fa-file-code-o"></i> [Tabellen](./beispiel_tabelle.tex "beispiel_tabelle.tex")                                 |
-<i class="fa fa-file-code-o"></i> [längere Arbeit auf Basis von scrreprt](./beispiel_laengere_arbeit.tex "beispiel_laengere_arbeit,tex")  |
+<i class="fa fa-file-code-o"></i> [längere Arbeit auf Basis von scrreprt](./beispiel_laengere_arbeit.tex "beispiel_laengere_arbeit.tex")  |
 <i class="fa fa-file-code-o"></i> [fancy Diagram](./beispiel_diagram.tex "beispiel_diagram.tex")                            |
-<i class="fa fa-file-archive-o"></i> [Vorlage Bachelorarbeit (überarbeitet)](./Vorlage_Bachelorarbeit_XeLaTeX.zip "Vorlage_Bachelorarbeit_XeLaTeX.zip")  |
+<i class="fa fa-file-archive-o"></i> [Vorlage Bachelorarbeit (überarbeitet)](./Vorlage_Bachelorarbeit_LuaLaTeX.zip "Vorlage_Bachelorarbeit_LuaLaTeX.zip")  |

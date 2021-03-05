@@ -1,19 +1,26 @@
-% !TEX TS-program = xelatex
+% !TEX TS-program = lualatex
 % !TEX encoding = UTF-8 Unicode
 % !TEX spellcheck = de_DE
-% © 2017 Moritz Brinkmann, CC-by-sa
-% http://latexkurs.github.io/MA
+% © 2021 Moritz Brinkmann, CC-by-sa
+% https://ma.latexkurs.de
 
-\documentclass[a4paper, oneside]{scrreprt}
+\documentclass[a4paper, 12pt, oneside]{scrreprt}
 
-\usepackage{
-	blindtext,
-	xltxtra,
-	geometry,
-}
+\usepackage{blindtext}
 
+%% Seitenränder
+\usepackage{geometry}
 \geometry{hmargin=3cm}
+
+%% Kopf- und Fußzeilen
 \pagestyle{headings}
+
+%% Zeilenabstand
+\usepackage{setspace}
+\onehalfspacing
+
+%% Mikrotypographie
+\usepackage{microtype}
 
 
 \begin{document}
@@ -27,7 +34,7 @@
 	
 	\blinditemize
 	
-	\blindtetx
+	\blindtext
 	\begin{quote}
 		\blindtext
 		
