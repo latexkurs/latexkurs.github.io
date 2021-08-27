@@ -30,7 +30,7 @@ Das Textsatzsystem LaTeX hat sich in den vergangenen Jahren und Jahrzehnten als 
 ### Zeit und Ort
 
 Die Vorlesung findet dieses Semester im reversed classroom Format statt. Heißt ihr bekommt die Unterlagen zur Verfügung gestellt und könnt jeden Mittwoch um 16:00 Uhr online in einer Art Sprechstunde Fragen stellen.
-Die Anmeldung ist ab Donnerstag im <a href ="https://moodle.uni-heidelberg.de/course/view.php?id=3868">Moodle</a>möglich. Die Anmeldung ist auf 130 Teilnehmende beschränkt. Ein Einschreibeschlüssel ist nicht notwendig. Alle notwendigen Informationen finden sich dieses mal im Moodle.
+Die Anmeldung ist bald im [Moodle](#) möglich. Die Anmeldung ist auf 130 Teilnehmende beschränkt. Ein Einschreibeschlüssel ist nicht notwendig. Alle notwendigen Informationen finden sich dieses mal im Moodle.
 
 
 ### Empfohlene Vorkenntnisse
@@ -43,7 +43,7 @@ Der Kurs richtet sich an Studierende aller Fachrichtungen, insbesondere Informat
 
 ## Prüfungsmodalitäten
 
-Die Prüfungsmodalitäten für den Kurs WS 2020/21 finden sich dieses Jahr im Moodle!
+Die Prüfungsmodalitäten für den Kurs WS 2021/22 finden sich dieses Jahr im Moodle!
 
 Für die erfolgreiche Teilnahme an der Vorlesung sind folgende Formalia einzuhalten:
 

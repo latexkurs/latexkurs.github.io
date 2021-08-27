@@ -7,9 +7,9 @@
 
 # Site settings
 title: LaTeX-Kurs
-longtitle: LaTeX Kurs WS 2019
+longtitle: LaTeX Kurs WS 2021\22
 email: support@latexkurs.de
-description: Einführung in das Textsatzsystem LaTeX im WS 2019 an der Uni Heidelberg
+description: Einführung in das Textsatzsystem LaTeX im WS 2021/22 an der Uni Heidelberg
 baseurl: ""  # the subpath of your site, e.g. /blog
 url: "http://latexkurs.github.io" # the base hostname & protocol for your site
 twitter_username: imntl_
