@@ -31,11 +31,11 @@ ausprobieren. Bitte beachten Sie, dass Sie  vorab eine LaTeX-Distribution instal
 
 ### Zeit und Ort
 
-Kurs 1: Samstag 06.03. und Sonntag 07.03.2021 jeweils 10:00 bis 14:30 Uhr
+Kurs 1: Samstag 19.02. und Sonntag 20.02.2022 jeweils 10:00 bis 14:30 Uhr
 
-Kurs 2: Samstag 13.02. und Sonntag 14.03.2021 jeweils 10:00 bis 14:30 Uhr
+Kurs 2: Samstag 05.03. und Sonntag 06.03.2021 jeweils 10:00 bis 14:30 Uhr
 
-Ort: Online-Konferenzraum
+Ort: voraussichtlich Online-Konferenzraum (siehe [ILIAS-Kurs](https://ilias.uni-mannheim.de/ilias.php?ref_id=1226497&cmd=frameset&cmdClass=ilrepositorygui&cmdNode=xh&baseClass=ilRepositoryGUI))
 
 ### Empfohlene Vorkenntnisse
 
