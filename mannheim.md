@@ -35,7 +35,7 @@ Kurs 1: Samstag 19.02. und Sonntag 20.02.2022 jeweils 10:00 bis 14:30 Uhr
 
 Kurs 2: Samstag 05.03. und Sonntag 06.03.2022 jeweils 10:00 bis 14:30 Uhr
 
-Ort: L9, 1-2, Raum 003
+Ort: Schloss Ostflügel, Raum O 048
 
 ### Empfohlene Vorkenntnisse
 
