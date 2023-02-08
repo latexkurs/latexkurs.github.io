@@ -31,9 +31,9 @@ ausprobieren. Bitte beachten Sie, dass Sie  vorab eine LaTeX-Distribution instal
 
 ### Zeit und Ort
 
-Kurs 1: Samstag 19.02. und Sonntag 20.02.2022 jeweils 10:00 bis 14:30 Uhr
+Kurs 1: Samstag 18.02. und Sonntag 19.02.2023 jeweils 10:00 bis 14:30 Uhr
 
-Kurs 2: Samstag 05.03. und Sonntag 06.03.2022 jeweils 10:00 bis 14:30 Uhr
+Kurs 2: Samstag 04.03. und Sonntag 05.03.2023 jeweils 10:00 bis 14:30 Uhr
 
 Ort: Schloss Ostflügel, Raum O 048
 
