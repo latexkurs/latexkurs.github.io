@@ -1,8 +1,9 @@
 ---
 layout: mannheim
 title: LaTeX-Workshop
-permalink: /MA/
-exclude: true
+nav-title: <svg width="6.6143mm" height="4.2333mm" version="1.1" viewBox="0 0 6.6143 4.2333" xml:space="preserve" xmlns="http://www.w3.org/2000/svg"><g transform="translate(-36.768 -113.26)"><g transform="matrix(.97992 0 0 .99655 .73836 .39113)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"><rect x="36.783" y="113.28" width="6.7199" height="1.406" opacity=".994" stroke-width=".015326"/><rect x="36.783" y="114.68" width="6.7199" height="1.406" fill="#898989" opacity=".994" stroke-width=".015326"/><rect x="36.783" y="113.28" width="6.7199" height="4.218" fill="none" opacity=".994" stroke="#000" stroke-width=".03"/></g></g></svg> Deutsch
+nav-title-active: 
+permalink: /MA-de/
 ---
 
 <p style="text-align:center">
@@ -31,11 +32,11 @@ ausprobieren. Bitte beachten Sie, dass Sie  vorab eine LaTeX-Distribution instal
 
 ### Zeit und Ort
 
-Kurs 1: Samstag 18.02. und Sonntag 19.02.2023 jeweils 10:00 bis 14:30 Uhr
+Kurs 1 (deutsch): Samstag 17.02. und Sonntag 18.02.2024 jeweils 10:00 bis 14:30 Uhr
 
-Kurs 2: Samstag 04.03. und Sonntag 05.03.2023 jeweils 10:00 bis 14:30 Uhr
+Kurs 2 (englisch): Samstag 02.03. und Sonntag 03.03.2024 jeweils 10:00 bis 14:30 Uhr
 
-Ort: Schloss Ostflügel, Raum O 048
+Ort: Schloss Ostflügel, Raum EO 159 (Ehrenhof Ost, 1. Stock)
 
 ### Empfohlene Vorkenntnisse
 

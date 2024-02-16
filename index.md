@@ -3,6 +3,7 @@ layout: default
 title: Hauptseite
 permalink: /
 weight: 1
+attribution: 1
 ---
 
 <p style="text-align:center">

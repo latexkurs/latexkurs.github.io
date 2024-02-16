@@ -17,16 +17,16 @@
       </a>
 
       <div class="trigger">
-	{% assign pages = site.pages | sort:"weight" %}
-	{% for node in pages %}
-	{% unless node.exclude %}
- 	{% if page.url == node.url %}
-	<a class="page-link" href="{{ node.url }}"><span style="color:#2a7ae2;">{{ node.title }}</span></a>
-	{% else %}
-	<a class="page-link" href="{{ node.url }}">{{ node.title }}</a>
-	{% endif %}
-	{% endunless %}
-	{% endfor %}
+		{% assign pages = site.pages | sort:"weight" %}
+		{% for node in pages %}
+			{% if node.layout != 'mannheim' %}
+			 	{% if page.url == node.url %}
+					<a class="page-link" href="{{ node.url }}"><span style="color:#2a7ae2;">{% if node.nav-title-active %}{{ node.nav-title-active }}{% else %}{% if node.nav-title %}{{ node.nav-title }}{% else %}{{ node.title }}{% endif %}{% endif %}</span></a>
+				{% else %}
+					<a class="page-link" href="{{ node.url }}">{% if node.nav-title %}{{ node.nav-title }}{% else %}{{ node.title }}{% endif %}</a>
+				{% endif %}
+			{% endif %}
+		{% endfor %}
       </div>
     </nav>
 
