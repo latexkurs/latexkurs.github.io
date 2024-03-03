@@ -53,6 +53,7 @@ The course is aimed at bachelor students of economics (possibly also for master 
 ---------------|---------------------------------------------------------------------------
 <i class="fa fa-file-code-o"></i> [Macrotypographic Settings](./exercise_layout.tex "exercise_layout.tex") | <i class="fa fa-file-code-o"></i> [Solution](./exercise_layout_solution.tex "exercise_layout_solution.tex")
 <i class="fa fa-file-code-o"></i> [Troubleshooting, Minimal Example](./exercise_errors.tex "exercise_errors.tex") | <i class="fa fa-file-code-o"></i> [Solution](./exercise_errors_solution.tex "exercise_errors_solution.tex")
+ | <i class="fa fa-file-code-o"></i> [Solution to on-slide exercises](./solution_on-slide_exercises.tex "exercise_errors_solution.tex")
 |
 **Examples**  |
 ---------------|---------------------------------------------------------------------------

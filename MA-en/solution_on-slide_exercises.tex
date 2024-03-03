@@ -1,0 +1,69 @@
+\documentclass{scrartcl}
+
+% for the math exercise:
+\usepackage{amsmath, unicode-math}
+
+
+% for the tabular exercise:
+\usepackage{tabularray}
+\UseTblrLibrary{booktabs,siunitx}
+
+\begin{document}
+
+
+\section{Typesetting the Maxwell Equations}
+
+The Maxwell equations represent the relationship between the electric field $\vec E$ and the magnetic field $\vec B$.
+
+\begin{align*}
+	\vec\nabla\cdot \vec E &= \frac{\rho}{\varepsilon_0} &
+	\vec \nabla \times \vec E &= -\frac{\partial \vec B}{\partial t} \\
+	\vec\nabla\cdot \vec B &= 0 &
+	\vec \nabla \times \vec B &= \mu_0 \varepsilon_0 \frac{\partial \vec E}{\partial t}	
+\end{align*}
+
+Formula \ref{eq:sum} adds all $a_i$ weighted by $c_i$.
+
+\begin{equation}
+\sum_{i=1}^n c_i \cdot a_i \label{eq:sum}
+\end{equation}
+
+
+\subsection{With the package \texttt{unicode-math} you could write equivalently}
+
+The Maxwell equations represent the relationship between the electric field $\vec E$ and the magnetic field $\vec B$.
+
+\begin{align*}
+	\vec∇·\vec E &= \frac{ρ}{ε_0} &
+	\vec ∇×\vec E &= -\frac{∂\vec B}{∂t} \\
+	\vec∇·\vec B &= 0 &
+	\vec ∇×\vec B &= \mu_0 ε_0 \frac{∂\vec E}{∂t}	
+\end{align*}
+
+Formula \ref{eq:sum2} adds all $a_i$ weighted by $c_i$.
+
+\begin{equation}
+Σ_{i=1}^n c_i·a_i \label{eq:sum2}
+\end{equation}
+
+
+
+\section{Creating a Table}
+
+\begin{table}[h!]
+	\caption{Quantity of stock items}
+	\begin{tblr}{
+			colspec={S[table-format=2.0]XS[table-format=4.0]X[3]},
+			row{1}={guard}
+		}
+		\toprule
+		Serial No. & Item & Quantity & Description \\
+		\midrule
+		1 & pencil & 13 & absolute premium quality, especially sharp, hand painted, grade HB\\
+		2 & ballpoint pen & 800 & boring description\\
+		3 & … & 5 & … \\
+		\bottomrule
+	\end{tblr}
+\end{table}
+
+\end{document}
