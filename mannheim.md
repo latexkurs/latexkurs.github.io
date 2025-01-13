@@ -32,11 +32,11 @@ ausprobieren. Bitte beachten Sie, dass Sie  vorab eine LaTeX-Distribution instal
 
 ### Zeit und Ort
 
-Kurs 1 (deutsch): Samstag 17.02. und Sonntag 18.02.2024 jeweils 10:00 bis 14:30 Uhr
+Kurs 1 (deutsch): Samstag 15.02. und Sonntag 16.02.2025 jeweils 10:00 bis 14:30 Uhr
 
-Kurs 2 (englisch): Samstag 02.03. und Sonntag 03.03.2024 jeweils 10:00 bis 14:30 Uhr
+Kurs 2 (englisch): Samstag 08.03. und Sonntag 09.03.2025 jeweils 10:00 bis 14:30 Uhr
 
-Ort: Schloss Ostflügel, Raum EO 159 (Ehrenhof Ost, 1. Stock)
+Ort: Schloss Ostflügel, Raum EO 157 (Ehrenhof Ost, 1. Stock)
 
 ### Empfohlene Vorkenntnisse
 
