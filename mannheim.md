@@ -32,9 +32,9 @@ ausprobieren. Bitte beachten Sie, dass Sie  vorab eine LaTeX-Distribution instal
 
 ### Zeit und Ort
 
-Kurs 1 (deutsch): Samstag 15.02. und Sonntag 16.02.2025 jeweils 10:00 bis 14:30 Uhr
+Kurs 1 (deutsch): Samstag 14.02. und Sonntag 15.02.2026 jeweils 10:00 bis 14:30 Uhr
 
-Kurs 2 (englisch): Samstag 08.03. und Sonntag 09.03.2025 jeweils 10:00 bis 14:30 Uhr
+Kurs 2 (englisch): Samstag 21.02. und Sonntag 22.02.2025 jeweils 10:00 bis 14:30 Uhr
 
 Ort: Schloss Ostflügel, Raum EO 157 (Ehrenhof Ost, 1. Stock)
 
