@@ -28,9 +28,9 @@ The course is specifically designed for students who intend to typeset their sem
 
 ### Time and Location
 
-Course 1 (German): Saturday, February 15, and Sunday, February 16, 2025, from 10:00 am to 2:30 pm
+Course 1 (German): Saturday, February 14, and Sunday, February 15, 2026, from 10:00 am to 2:30 pm
 
-Course 2 (English): Saturday, March 8, and Sunday, March 9, 2025, from 10:00 am to 2:30 pm
+Course 2 (English): Saturday, February 21, and Sunday, February 22, 2026, from 10:00 am to 2:30 pm
 
 Location: Castle East Wing, Room EO 157 (Ehrenhof Ost, 1st floor)
 
